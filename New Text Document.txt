@@ -1,0 +1,7 @@
+easy 3 days, 5 problems each
+medium 6 days 3 problems each
+hard 7 days 2 problems each
+
+
+
+starting from 12/12
